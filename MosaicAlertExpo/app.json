@@ -7,11 +7,6 @@
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
     "scheme": "mosaicalert",
-    "splash": {
-      "image": "./assets/splash-icon.png",
-      "resizeMode": "contain",
-      "backgroundColor": "#2E7D32"
-    },
     "ios": {
       "supportsTablet": true,
       "bundleIdentifier": "com.mosaicalert.app",
@@ -51,8 +46,8 @@
         {
           "android": {
             "minSdkVersion": 24,
-            "compileSdkVersion": 35,
-            "targetSdkVersion": 35
+            "compileSdkVersion": 34,
+            "targetSdkVersion": 34
           }
         }
       ],
